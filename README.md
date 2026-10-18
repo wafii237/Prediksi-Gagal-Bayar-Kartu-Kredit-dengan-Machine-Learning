@@ -68,15 +68,14 @@ Metrik evaluasi: Accuracy, Precision, Recall, F1-score, ROC-AUC, serta kurva ROC
 
 ## Hasil
 
-> Isi tabel ini dengan output dari notebook setelah dijalankan.
 
 | Model | Accuracy | Precision | Recall | F1 | ROC-AUC |
 |---|---|---|---|---|---|
-| Logistic Regression | - | - | - | - | - |
-| Random Forest | - | - | - | - | - |
-| Gradient Boosting | - | - | - | - | - |
+| Logistic Regression | 0.6795 | 0.3671	 | 0.6202	 | 0.4612 | 0.7084|
+| Random Forest | 0.7988 | 0.5482	 | 0.5147	 | 0.5309	 | 0.7702 |
+| Gradient Boosting | 0.8185 | 0.6617	 | 0.367 | 0.4721 | 0.7785 |
 
-**Model terbaik:** `[isi]` dengan ROC-AUC `[isi]`.  
+**Model terbaik:** `Gradient Boosting` dengan ROC-AUC `[isi]`.  
 **Faktor paling berpengaruh:** `[isi]`.
 
 ## Manfaat
