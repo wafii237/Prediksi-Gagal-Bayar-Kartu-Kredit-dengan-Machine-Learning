@@ -1,0 +1,1 @@
+# Prediksi-Gagal-Bayar-Kartu-Kredit-dengan-Machine-Learning
